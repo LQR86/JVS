@@ -9,6 +9,7 @@
 ### 📚 核心理念
 - **[core-philosophy.md](core-philosophy.md)** - 核心理念与哲学思考
   - Jarvis模式的现实版本
+  - 设计动机与愿景分析
   - 三位一体协作架构
   - Agent能力定位
   - 框架可扩展性
