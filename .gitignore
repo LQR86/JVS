@@ -1,0 +1,35 @@
+# 临时文件
+temp.md
+*.tmp
+*.temp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE文件
+.vscode/settings.json
+.idea/
+
+# 日志文件
+*.log
+
+# 备份文件
+*.bak
+*~
+
+# 敏感配置文件
+config/secret.json
+config/api_keys.json
+
+# 编译输出
+dist/
+build/
+__pycache__/
+*.pyc
+node_modules/
+
+# 测试数据
+test_data/
+mock_data/
